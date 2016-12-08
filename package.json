@@ -1,0 +1,14 @@
+{
+  "name": "deeplearningjs",
+  "version": "0.0.1",
+  "description": "Deep Learning with JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yusuke Sugomori",
+  "license": "MIT",
+  "dependencies": {
+    "seedrandom": "^2.4.2"
+  }
+}
